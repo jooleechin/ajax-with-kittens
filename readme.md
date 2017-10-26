@@ -4,8 +4,8 @@ Example repository for using axios.
 
 ## Task List
 
-- [ ] Add a hard-coded list for all our cats
-- [ ] Retrieve all our cats from our Cats API
+- [x] Add a hard-coded list for all our cats
+- [x] Retrieve all our cats from our Cats API
 - [ ] Add an event listener to the create new cat button
 - [ ] On click, show a form on the page to create a new cat
 - [ ] On form submit, hide the form and clear the input
